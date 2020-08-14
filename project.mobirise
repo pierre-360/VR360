@@ -59,11 +59,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "VIVEZ L'EXPERIENCE 360",
+        "meta_descr": "profitez du pouvoir de la vidéo 360° pour developper vos ventes, fideliser vos clients, promouvoir votre patrimoine et vos grands évènements.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/vr-360-1504x1424.png"
       },
       "components": [
         {
